@@ -1,0 +1,51 @@
+    PKCS#3 DH Parameters: (4096 bit)
+        prime:
+            00:f3:ef:b8:d6:85:5b:b5:7c:66:de:f8:86:e9:15:
+            48:4f:cb:d8:45:cc:d0:55:c3:60:4b:ab:f7:f2:34:
+            82:04:95:e5:97:7d:0d:df:12:84:f7:b3:e0:94:a0:
+            69:f9:90:26:f6:f0:96:cf:2f:19:ec:d1:fb:c7:4e:
+            98:f8:48:c0:cd:85:a9:91:2d:9e:a6:b5:e1:21:2e:
+            c8:9e:48:9e:e2:96:01:ed:dd:99:0b:93:6e:c0:f6:
+            91:e6:ef:00:51:b6:7c:c1:c3:2b:98:0e:b4:8b:66:
+            1d:46:85:a0:f4:bc:26:da:1b:cb:f5:3a:af:62:63:
+            50:e1:ae:45:60:bb:e1:8d:ea:ae:cb:84:6c:46:0b:
+            c2:0c:b2:2d:8f:83:98:8b:56:79:aa:39:0f:35:69:
+            99:ff:0d:d1:a3:94:5e:8d:c5:fe:17:6a:5c:b5:80:
+            6c:09:6a:5e:d5:1b:3c:bd:a8:d1:f0:1d:02:97:1a:
+            ae:bb:d0:07:1a:61:1e:f0:a5:f9:63:66:7c:46:cd:
+            c9:f2:10:c9:20:88:43:58:99:72:42:73:73:e1:0c:
+            95:cf:29:61:c0:c0:92:e7:dc:08:8d:bf:a6:55:8c:
+            52:89:e1:f8:7a:be:5c:21:f8:37:81:94:e3:ba:51:
+            46:7c:20:f4:bd:90:2b:5c:a1:81:d5:9f:51:69:de:
+            3d:45:35:1c:f4:31:96:bc:c4:74:fb:0c:df:35:86:
+            57:8d:1c:bb:b0:f7:d8:d4:2b:ed:fe:66:ef:f7:6b:
+            52:3b:ab:65:f1:55:05:da:fc:d8:32:93:45:9d:6c:
+            84:88:e7:8f:ed:7a:33:7f:ae:76:4a:81:1d:a8:32:
+            43:5a:0e:87:62:ca:12:0e:c3:15:0c:a0:03:0b:10:
+            80:86:6d:fd:73:52:a1:82:11:40:a2:d3:63:df:c6:
+            98:7d:24:5f:c0:40:0d:0b:59:66:80:9d:fa:6b:0c:
+            b8:3c:27:dc:ae:99:fd:55:67:52:9c:7b:87:c5:af:
+            48:77:2c:6f:55:bf:33:c0:3c:96:37:ec:48:62:a6:
+            7d:12:c2:f3:a0:36:ec:ab:59:32:2e:a8:69:1d:85:
+            f9:80:1a:2f:01:d3:5a:5c:c3:7c:a2:64:fc:5c:0c:
+            99:f4:e5:38:95:96:82:06:af:62:7b:2e:cf:e3:52:
+            60:a5:9f:ba:96:38:19:f9:13:8a:fa:e1:7f:92:d5:
+            77:cb:cd:18:36:89:9d:92:a1:16:b7:79:4f:29:60:
+            05:28:80:db:a1:14:7d:e8:80:11:b5:0e:70:06:a2:
+            9d:48:a0:3c:22:66:dd:ba:7e:c9:2c:13:1f:b2:34:
+            ea:da:5c:6d:31:62:15:83:52:e4:84:6b:bc:8a:e3:
+            69:51:03
+        generator: 2 (0x2)
+-----BEGIN DH PARAMETERS-----
+MIICCAKCAgEA8++41oVbtXxm3viG6RVIT8vYRczQVcNgS6v38jSCBJXll30N3xKE
+97PglKBp+ZAm9vCWzy8Z7NH7x06Y+EjAzYWpkS2eprXhIS7Inkie4pYB7d2ZC5Nu
+wPaR5u8AUbZ8wcMrmA60i2YdRoWg9Lwm2hvL9TqvYmNQ4a5FYLvhjequy4RsRgvC
+DLItj4OYi1Z5qjkPNWmZ/w3Ro5RejcX+F2pctYBsCWpe1Rs8vajR8B0Clxquu9AH
+GmEe8KX5Y2Z8Rs3J8hDJIIhDWJlyQnNz4QyVzylhwMCS59wIjb+mVYxSieH4er5c
+Ifg3gZTjulFGfCD0vZArXKGB1Z9Rad49RTUc9DGWvMR0+wzfNYZXjRy7sPfY1Cvt
+/mbv92tSO6tl8VUF2vzYMpNFnWyEiOeP7Xozf652SoEdqDJDWg6HYsoSDsMVDKAD
+CxCAhm39c1KhghFAotNj38aYfSRfwEANC1lmgJ36awy4PCfcrpn9VWdSnHuHxa9I
+dyxvVb8zwDyWN+xIYqZ9EsLzoDbsq1kyLqhpHYX5gBovAdNaXMN8omT8XAyZ9OU4
+lZaCBq9iey7P41JgpZ+6ljgZ+ROK+uF/ktV3y80YNomdkqEWt3lPKWAFKIDboRR9
+6IARtQ5wBqKdSKA8Imbdun7JLBMfsjTq2lxtMWIVg1LkhGu8iuNpUQMCAQI=
+-----END DH PARAMETERS-----
